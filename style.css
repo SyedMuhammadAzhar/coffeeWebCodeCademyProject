@@ -1,12 +1,14 @@
 *{
     margin: 0px;
     padding: 0px;
+    
 }
 body{
     background-color: black;
     color:seashell;
    
 }
+
 
 nav{
     display:flex;
@@ -90,6 +92,13 @@ nav{
     width: 300px;
 }
 
+
+.fontstyle{
+    color: seashell;
+    font-family: Helvetica;
+    opacity: 0.8;
+}
+
 .locations{
     height: 500px;
     width: 94%;
@@ -98,9 +107,7 @@ nav{
     background-position: center;
     background-size: cover;
     margin: 0 auto;
-    
-    
-    
+        
 }
 .locations h1
 {
@@ -127,3 +134,18 @@ nav{
     
     
 }
+
+
+.contact{
+    height: 200px;
+    text-align: center;
+    margin-top: 10px;
+    
+
+}
+.copyright{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
