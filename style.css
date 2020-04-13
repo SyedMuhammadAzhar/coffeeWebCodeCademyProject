@@ -60,3 +60,32 @@ nav{
 .banner-title-padding{
     padding: 6px 0;
 }
+
+.tea-details{
+    width:1000px;
+    margin: 0 auto;
+   
+    
+}
+
+.tea-headings{
+    margin-top: 25px;
+    text-align: center;
+}
+.tea-types{
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+.tea-pic{
+    padding: 8px;
+}
+.tea-pic h3{
+    margin-top: 5px;
+    text-align: center;
+}
+
+.tea-types img{
+    height: 200px;
+    width: 300px;
+}
