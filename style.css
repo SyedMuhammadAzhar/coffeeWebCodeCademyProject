@@ -89,3 +89,41 @@ nav{
     height: 200px;
     width: 300px;
 }
+
+.locations{
+    height: 500px;
+    width: 94%;
+    background-image: url(./pictures/img-locations-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+    
+    
+    
+}
+.locations h1
+{
+    padding-top: 70px;
+    text-align: center;
+}
+
+.box-container{
+    width: 100%;
+    margin-top: 15px;
+    display: inline-flex;
+    justify-content:center;
+}
+.box{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+    width:300px;
+    box-sizing: border-box;
+    margin: 10px 30px;
+    padding:30px 10px;
+    
+    
+}
